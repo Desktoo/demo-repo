@@ -1,3 +1,3 @@
 ## DEMO FILE
 this is a readme file
-i am adding a new line to this commit
+this is the new file after removing last line
